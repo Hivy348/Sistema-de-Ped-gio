@@ -1,5 +1,5 @@
 # Sistema-de-Pedagio  
-Esse projeto foi desenvolvido como treinamento de Programação Orientada a Objetos.  
+Esse projeto simples foi desenvolvido como treinamento de Programação Orientada a Objetos.  
 O sistema precisava ser composto por:  
 - Classes e Objetos
 - Herança
